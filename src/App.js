@@ -38,6 +38,7 @@ function App() {
         <option value="raptor">raptor</option>
         <option value="smart">smart</option>
         <option value="matrix">matrix</option>
+        <option value="uma">Uma</option>
       </select>
       <br />
 
