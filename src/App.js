@@ -39,6 +39,7 @@ function App() {
         <option value="smart">smart</option>
         <option value="matrix">matrix</option>
         <option value="uma">Uma</option>
+        <option value="sholi">Sholi</option>
       </select>
       <br />
 
@@ -52,7 +53,7 @@ function App() {
         <span>{linea2}</span>
         <br />
         <span>{linea1}</span>
-        <img src={"/images/" + img + ".jpg"} />
+        <img src={"/images/" + img + ".jpg"} alt="img" />
         <br />
       </div>
     </div>

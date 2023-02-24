@@ -51,6 +51,11 @@
   text-shadow: 2px 0 0 #000, -2px 0 0 #000, 0 2px 0 #000, 0 -2px 0 rgb(255 250 250), 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
 }
 
+.meme img {
+  width: 500px;
+  height: 500px;
+}
+
 .meme span:nth-child(1) {
   margin-top: 400px;
 }
@@ -63,6 +68,11 @@
 
   .meme span:nth-child(1) {
     margin-top: 450px;
+  }
+
+  .meme img {
+    width: 250px;
+    height: 250px;
   }
 }
 
